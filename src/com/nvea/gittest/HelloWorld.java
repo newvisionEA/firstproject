@@ -6,5 +6,7 @@ public class HelloWorld {
     System.out.println("hello world");
     System.out.println("hello world brenci 2 3  4");
     System.out.println("work");
+
+    // modificiare
   }
 }
